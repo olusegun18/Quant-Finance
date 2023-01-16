@@ -1,4 +1,2 @@
-The function `invalidateLater()` can be used to invalidate an observer or
-reactive expression in a given number of milliseconds. In this example, the
-output `currentTime` is updated every second, so it shows the current time
-on a second basis.
+Crptocurrency assets are very volatile. This project is just to take a brief exploration into the volatile behaviour of three crypto assets (BTC, ETH, and USDT). The analysis covers a 5yr period up until July 10, 2022. There are numerous models to assess the risk of financial assets. In this notbook, I will use Value at
+Risk (VaR), Conditional Value at Risk (CVaR), VaR using a parametric method with a normal distribution, and Monte Carlo simulations.
