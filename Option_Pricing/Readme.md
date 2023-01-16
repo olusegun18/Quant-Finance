@@ -1,4 +1,1 @@
-The function `invalidateLater()` can be used to invalidate an observer or
-reactive expression in a given number of milliseconds. In this example, the
-output `currentTime` is updated every second, so it shows the current time
-on a second basis.
+With this code, we can price an European option using the binomial tree. Please not that unlike American options, European options are not path-dependent. Hence, exercise can only be at expiration date.
