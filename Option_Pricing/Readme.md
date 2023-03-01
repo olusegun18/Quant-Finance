@@ -1,1 +1,1 @@
-With this code, we can price an European option using the binomial tree. Please not that unlike American options, European options are not path-dependent. Hence, exercise can only be at expiration date.
+With this code, we can price both european and american options 
